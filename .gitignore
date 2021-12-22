@@ -124,3 +124,14 @@ dmypy.json
 .pyre/
 
 .DS_Store
+intro_pres_income_files/libs/bootstrap/bootstrap-icons.css
+intro_pres_income_files/libs/bootstrap/bootstrap-icons.woff
+intro_pres_income_files/libs/bootstrap/bootstrap.min.css
+intro_pres_income_files/libs/bootstrap/bootstrap.min.js
+intro_pres_income_files/libs/clipboard/clipboard.min.js
+intro_pres_income_files/libs/quarto-html/anchor.min.js
+intro_pres_income_files/libs/quarto-html/popper.min.js
+intro_pres_income_files/libs/quarto-html/quarto-syntax-highlighting.css
+intro_pres_income_files/libs/quarto-html/quarto.js
+intro_pres_income_files/libs/quarto-html/tippy.css
+intro_pres_income_files/libs/quarto-html/tippy.umd.min.js
